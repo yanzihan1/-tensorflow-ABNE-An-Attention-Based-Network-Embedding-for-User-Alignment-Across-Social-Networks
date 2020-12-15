@@ -20,5 +20,8 @@ If you want to use another social network, pls modify the parameter size of the 
 Experimental comparison：(We have done a number of experiments and take the average value such as train ratio10%, p@1-p@30)
 
 
-time in other experiments:  java:  56min    tensorflow-gpu: 27min    
+time in other experiments:  
+java:  56min 
+
+tensorflow-gpu(1.14.0): 27min    
 Accuracy in other experiments：+0.004 ~ +0.012
