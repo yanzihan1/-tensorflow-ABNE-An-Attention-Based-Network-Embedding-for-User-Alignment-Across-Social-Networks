@@ -22,6 +22,6 @@ Experimental comparison：(We have done a number of experiments and take the ave
 
 time in other experiments:  
 java:  56min 
+tensorflow-gpu(1.14.0): 27min   
 
-tensorflow-gpu(1.14.0): 27min    
 Accuracy in other experiments：+0.004 ~ +0.012
