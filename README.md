@@ -1,6 +1,10 @@
 # (tensorflow)-ABNE-An-Attention-Based-Network-Embedding-for-User-Alignment-Across-Social-Networks
 
-ABNE-An-Attention-Based-Network-Embedding-for-User-Alignment-Across-Social-Networks(IEEE 2019)，paper author uses Java(https://github.com/ColaLL/IONE) ,For wider application, we have updated the python version，use tensorflow1.14.0
+
+#  For wider application, we have updated the python version，use tensorflow1.14.0
+
+ABNE-An-Attention-Based-Network-Embedding-for-User-Alignment-Across-Social-Networks(IEEE 2019)
+paper author uses Java(https://github.com/ColaLL/IONE) 
 
 Source Code and anonymous twitter_foursquare data for IJCAI 2016 paper "Aligning Users Across Social Networks Using Network Embedding" Feel free to contact athuor (Liu Li liuli0407@hotmail.com) when you have any problems about the paper or the code(Java 8).
 
@@ -23,4 +27,4 @@ Experimental comparison：(We have done a number of experiments and take the ave
 
 #IONE(python):0.0131,0.0527,,0.0999,111,0.137,0.166
 
-Accuracy in other experiments：-0.005 ~ +0.007
+Accuracy in other experiments：-+0.004 ~ +0.012
